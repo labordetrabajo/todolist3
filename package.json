@@ -31,7 +31,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": ".",
+  "homepage": "https://labordetrabajo.github.io/todolist3/",
   "devDependencies": {
     "gh-pages": "^4.0.0"
   }
